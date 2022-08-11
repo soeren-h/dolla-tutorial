@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/dolla-tutorial/static/css/main.d7da34c1.css",
+    "main.js": "/dolla-tutorial/static/js/main.b99a8188.js",
+    "static/media/video.mp4": "/dolla-tutorial/static/media/video.d472cc509c85fa6398dc.mp4",
+    "static/media/svg-4.svg": "/dolla-tutorial/static/media/svg-4.54bcc52989c4a48cb9164868431801f3.svg",
+    "static/media/svg-2.svg": "/dolla-tutorial/static/media/svg-2.0d5eafcfa1b4a30e0bbdaeb28bff572e.svg",
+    "static/media/svg-1.svg": "/dolla-tutorial/static/media/svg-1.9b82899e56cbf6afb75546d91b25f1b8.svg",
+    "static/media/svg-3.svg": "/dolla-tutorial/static/media/svg-3.cfa05eaa112e86ad021c1e660b027280.svg",
+    "index.html": "/dolla-tutorial/index.html",
+    "main.d7da34c1.css.map": "/dolla-tutorial/static/css/main.d7da34c1.css.map",
+    "main.b99a8188.js.map": "/dolla-tutorial/static/js/main.b99a8188.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7da34c1.css",
+    "static/js/main.b99a8188.js"
+  ]
+}
